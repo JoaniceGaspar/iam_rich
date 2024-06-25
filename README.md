@@ -18,7 +18,7 @@ Flutter Project.
 <br>
 
 <p align="center">
-  <img alt=" I am Rich - Project" src=".github/preview_iam_rich_app.jpg" width="50%">
+  <img alt=" I am Rich - Project" src=".github/preview_iam_rich_app.jpg" width="30%">
 </p>
 
 ## 🚀 Tecnologies
