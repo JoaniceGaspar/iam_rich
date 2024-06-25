@@ -37,5 +37,5 @@ I_am_Rich is a simple application that displays just a header with a centered ti
 It was created with the aim of showing the use of Widgets that make up the basic structure of an application created in Flutter/Dart such as MaterialApp and Scafoold.
 
 ## 🔖 Diagram
-You can view the project Diagram through [THIS LINK]([https://www.figma.com/community/file/1187422022288947321](https://app.diagrams.net/#HJoaniceGaspar%2Fiam_rich%2Fmain%2FI%20am%20rich#%7B%22pageId%22%3A%22A2E0x7AI6BWVsamxQEBP%22%7D)).
+You can view the project Diagram through [THIS LINK](https://app.diagrams.net/#HJoaniceGaspar%2Fiam_rich%2Fmain%2FI%20am%20rich#%7B%22pageId%22%3A%22A2E0x7AI6BWVsamxQEBP%22%7D).
 
