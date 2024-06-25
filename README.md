@@ -18,7 +18,7 @@ Flutter Project.
 <br>
 
 <p align="center">
-  <img alt="Projeto I am Rich" src=".github/preview_iam_rich_app.jpg" width="100%">
+  <img alt=" I am Rich - Project" src=".github/preview_iam_rich_app.jpg" width="50%">
 </p>
 
 ## 🚀 Tecnologias
@@ -36,6 +36,10 @@ This project was developed with the following technologies:
 I_am_Rich is a simple application that displays just a header with a centered title and an image in the center of the application.
 It was created with the aim of showing the use of Widgets that make up the basic structure of an application created in Flutter/Dart such as MaterialApp and Scafoold.
 
-## 🔖 Diagram
+## 🔖 Project Diagram
+<p align="center">
+  <img alt="Project Diagram" src=".github/preview_app_iam_rich_diagrm.png" width="50%">
+</p>
+
 You can view the project Diagram through [THIS LINK](https://app.diagrams.net/#HJoaniceGaspar%2Fiam_rich%2Fmain%2FI%20am%20rich#%7B%22pageId%22%3A%22A2E0x7AI6BWVsamxQEBP%22%7D).
 
