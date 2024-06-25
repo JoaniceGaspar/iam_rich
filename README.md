@@ -18,7 +18,7 @@ Flutter Project.
 <br>
 
 <p align="center">
-  <img alt=" I am Rich - Project" src=".github/preview_iam_rich_app.jpg" width="30%">
+  <img alt=" I am Rich - Project" src=".github/preview_iam_rich_app.jpg" width="35%">
 </p>
 
 ## 🚀 Tecnologies
@@ -38,7 +38,7 @@ It was created with the aim of showing the use of Widgets that make up the basic
 
 ## 🔖 Project Diagram
 <p align="center">
-  <img alt="Project Diagram" src=".github/preview_app_iam_rich_diagrm.png" width="50%">
+  <img alt="Project Diagram" src=".github/preview_app_iam_rich_diagrm.png" width="70%">
 </p>
 
 You can view the project Diagram through [THIS LINK](https://app.diagrams.net/#HJoaniceGaspar%2Fiam_rich%2Fmain%2FI%20am%20rich#%7B%22pageId%22%3A%22A2E0x7AI6BWVsamxQEBP%22%7D).
